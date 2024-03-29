@@ -1,0 +1,178 @@
+title,author,year,type,venue,field
+A preliminary analysis of mobile app user reviews,Vasa et al.,2012 ,conference,OZCHI,Human-centred computing
+A preliminary analysis of vocabulary in mobile app user reviews,Hoon et al.,2012 ,conference,OZCHI,Human-centred computing
+Managing the Enterprise Business Intelligence App Store: Sentiment Analysis Supported Requirements Engineering,Goul et al.,2012 ,conference,HICSS,Information Systems
+Accessibility in smartphone applications: what do we learn from reviews?,Anam and Yeasin,2013 ,conference,ASSETS,Human-centred computing
+Analysis of user comments: An approach for software requirements evolution,Carreno and Winbladh,2013 ,conference,ICSE,Software engineering
+Awesome!: conveying satisfaction on the app store,Hoon et al.,2013 ,conference,OZCHI,Human-centred computing
+Do Android users write about electric sheep? Examining consumer reviews in Google Play,Ha and Wagner,2013 ,conference,CCNC,Distributed computing and systems software
+Retrieving and analyzing mobile apps feature requests from online reviews,Iacob and Harrison,2013 ,conference,MSR,Software engineering
+Serendipitous Recommendation for Mobile Apps Using Item-Item Similarity Graph,Bhandari et al.,2013 ,conference,Asia Information Retrieval Symposium,Data management and data science
+"Trusting smartphone Apps? To install or not to install, that is the question",Kuehnhausen and Frost,2013 ,conference,CogSIMA,Distributed computing and systems software
+User feedback in the appstore: An empirical study,Pagano and Maalej,2013 ,conference,RE,Software engineering
+"What Are You Complaining About?: A Study
+of Online Reviews of Mobile Applications",Iacob et al.,2013 ,conference,HCI,Human-centred computing
+Why people hate your app: making sense of user feedback in a mobile app store,Fu et al.,2013 ,conference,KDD,Data management and data science
+AR-miner: mining informative reviews for developers from mobile app marketplace,Chen et al.,2014 ,conference,ICSE,Software engineering
+FAVe: Visualizing User Feedback for Software Evolution,Guzman et al.,2014 ,conference,VISSOFT,Human-centred computing
+For User-Driven Software Evolution: Requirements Elicitation Derived from Mining Online Reviews,Jiang et al.,2014 ,conference,PAKDD,Data management and data science
+How Do Users Like This Feature? A Fine Grained Sentiment Analysis of App Reviews,Guzman and Maalej,2014 ,conference,RE,Software engineering
+Popularity Modeling for Mobile Apps: A Sequential Approach,Zhu et al.,2014 ,journal,IEEE transactions on cybernetics,Information and Computing Sciences
+"Prioritizing the Devices to Test Your App on:
+A Case Study of Android Game Apps",Khalid et al.,2014 ,conference,FSE,Software engineering
+"""What Parts of Your Apps are Loved by Users?""",Gu and Kim,2015 ,conference,ASE,Software engineering
+AUTOREB: Automatically Understanding the Review-to-Behavior Fidelity in Android Applications,Kong et al.,2015 ,conference,CCS,Cybersecurity and privacy
+Discovery of Ranking Fraud for Mobile Apps,Zhu et al.,2015 ,journal,IEEE Transactions on Knowledge and Data Engineering,Data Format
+Ensemble Methods for App Review Classification: An Approach for Software Evolution,Guzman et al.,2015 ,conference,ASE,Software engineering
+Generative Models for Mining Latent Aspects and Their Ratings from Short Reviews,Li et al.,2015 ,conference,ICDM,Data management and data science
+How can i improve my app? Classifying user reviews for software maintenance and evolution,Panichella et al.,2015 ,conference,ICSME,Software engineering
+Identification and Classification of Requirements from App User Reviews,Yang and Liang,2015 ,conference,SEKE,Software engineering
+It feels different from real life: Users' Opinions of Mobile Applications for Mental Health,de Alva et al.,2015 ,conference,OzCHI,human-centred computing
+Leveraging User Reviews to Improve Accuracy for Mobile App Retrieval,Park et al.,2015 ,conference,SIGIR,Data management and data science
+Mining User Opinions in Mobile App Reviews: A Keyword-Based Approach,Phong et al.,2015 ,conference,ASE,Software engineering
+Mobile App Security Risk Assessment: A Crowdsourcing Ranking Approach from User Comments,Cen et al.,2015 ,conference,SDM,Data management and data science
+PAID: Prioritizing app issues for developers by tracking user reviews over versions,Gao et al.,2015 ,conference,ISSRE,Software engineering
+Retrieving Diverse Opinions from App Reviews,Guzman et al.,2015 ,conference,ESEM,Software engineering
+SimApp: A Framework for Detecting Similar Mobile Applications by Online Kernel Learning,Chen et al.,2015 ,conference,WSDM,Data management and data science
+The App Sampling Problem for App Store Mining,Martin et al.,2015 ,conference,MSR,Software engineering
+User reviews matter! Tracking crowdsourced reviews to support evolution of successful apps,Palomba et al.,2015 ,conference,ICSME,Software engineering
+What Do Mobile App Users Complain About?,Khalid et al.,2015 ,journal,IEEE Software,Computer Software
+Analyzing and automatically labelling the types of user issues that are raised in mobile app reviews,McIlroy et al.,2016 ,journal,EMSE,Computer Software
+Approaches for prioritizing feature improvements extracted from app reviews,Keertipati et al.,2016 ,conference,EASE,Software engineering
+Examining the Relationship between FindBugs Warnings and App Ratings,Khalid et al.,2016 ,journal,IEEE Software,Computer Software
+Experience Report: Understanding Cross-Platform App Issues from User Reviews,Man et al.,2016 ,conference,ISSRE,Software engineering
+On the automatic classification of app reviews,Maalej et al.,2016 ,journal,Requirements Engineering,Computer Software
+What would users change in my app? summarizing app reviews for recommending software changes,Di Sorbo et al.,2016 ,conference,FSE,Software engineering
+A first look at mobile Ad-Blocking apps,Ikram and Kaafar,2017 ,conference,NCA,Distributed computing and systems software
+A study of the relation of mobile device attributes with the user-perceived quality of Android apps,Noei et al.,2017 ,journal,EMSE,Computer Software
+An Automated Feedback-Based Approach to Support Mobile App Development,Scherr et al.,2017 ,conference,SEAA,Software engineering
+Analyzing reviews and code of mobile apps for better release planning,Ciurumelea et al.,2017 ,conference,SANER,Software engineering
+Attributes that Predict which Features to Fix: Lessons for App Store Mining,Licorish et al.,2017 ,conference,EASE,Software engineering
+Automatic Classification of Non-Functional Requirements from Augmented App User Reviews,Lu and Liang,2017 ,conference,EASE,Software engineering
+Crowdsourced App Review Manipulation,Li et al.,2017 ,conference,SIGIR,Data management and data science
+Exploiting User Feedback in Tool-Supported Multi-criteria Requirements Prioritization,Morales-Ramirez et al.,2017 ,conference,RE,Software engineering
+Fine-grained Opinion Mining from Mobile App Reviews with Word Embedding Features,Sanger et al.,2017 ,conference,NLDB,Data management and data science
+Is It Worth Responding to Reviews? Studying the Top Free Apps in Google Play,McIlroy et al.,2017 ,journal,IEEE Software,Computer Software
+Mobile apps for mood tracking: an analysis of features and user reviews,Caldeira et al.,2017 ,journal,American Medical Informatics Association,Library and Information Studies
+OASIS: prioritizing static analysis warnings for Android apps based on app user reviews,Wei et al.,2017 ,conference,FSE,Software engineering
+Preliminary Study on Applying Semi-Supervised Learning to App Store Analysis,Deocadez et al.,2017 ,conference,EASE,Software engineering
+QuickReview: A Novel Data-Driven Mobile User Interface for Reporting Problematic App Features,Su'a et al.,2017 ,conference,IUI,Human-centred computing
+Recommending and Localizing Change Requests for Mobile Apps Based on User Reviews,Palomba et al.,2017 ,conference,ICSE,Software engineering
+SAFE: A Simple Approach for Feature Extraction from App Descriptions and App Reviews,Johann et al.,2017 ,conference,RE,Software engineering
+Search Rank Fraud and Malware Detection in Google Play,Rahman et al.,2017 ,journal,IEEE Transactions on Knowledge and Data Engineering,Data Format
+Users — The Hidden Software Product Quality Experts?: A Study on How App Users Report Quality Aspects in Online Reviews,Groen et al.,2017 ,conference,RE,Software engineering
+Version-Aware Rating Prediction for Mobile App Recommendation,Yao et al.,2017 ,journal,ACM Transactions on Information Systems,Information Systems
+App Review Analysis Via Active Learning: Reducing Supervision Effort without Compromising Classification Accuracy,Dhinakaran et al.,2018 ,conference,RE,Software engineering
+App store mining is not enough for app improvement,Nayebi et al.,2018 ,journal,EMSE,Computer Software
+Automating Developers' Responses to App Reviews,Greenheld et al.,2018 ,conference,ASWEC,Software engineering
+Can App Changelogs Improve Requirements Classification from App Reviews? An Exploratory Study,Wang et al.,2018 ,conference,ESEM,Software engineering
+Competitivebike: Competitive analysis and popularity prediction of bike-sharing apps using multi-source data,Ouyang et al.,2018 ,journal,IEEE Transactions on Mobile Computing,Distributed Computing
+Exploring the integration of user feedback in automated testing of Android applications,Grano et al.,2018 ,conference,SANER,Software engineering
+Improvement of User Review Classification Using Keyword Expansion,Higashi et al.,2018 ,conference,SEKE,Software engineering
+INFAR: insight extraction from app reviews,Gao et al.,2018 ,conference,FSE,Software engineering
+Modeling User Concerns in the App Store: A Case Study on the Rise and Fall of Yik Yak,Williams and Mahmoud,2018 ,conference,RE,Software engineering
+On user rationale in software engineering,Kurtanovic and Maalej,2018 ,journal,Requirements Engineering,Computer Software
+Online App Review Analysis for Identifying Emerging Issues,Gao et al.,2018 ,conference,ICSE,Software engineering
+Sentiment Analysis for Software Engineering: How Far Can We Go?,Lin et al.,2018 ,conference,ICSE,Software engineering
+Studying the dialogue between users and developers of free apps in the google play store,Hassan et al.,2018 ,journal,EMSE,Computer Software
+The OIRE Method - Overview and Initial Validation,Yin and Pfahl,2018 ,conference,APSEC,Software engineering
+Using frame semantics for classifying and summarizing application store reviews,Jha and Mahmoud,2018 ,journal,EMSE,Computer Software
+What Aspects Do Non-Functional Requirements in App User Reviews Describe? An Exploratory and Comparative Study,Wang et al.,2018 ,conference,APSEC,Software engineering
+What People Like in Mobile Finance Apps: An Analysis of User Reviews,Huebner et al.,2018 ,conference,MUM,Human-centred computing
+Winning the App Production Rally (研究app排名和哪些因素有关),Noei et al.,2018 ,conference,FSE,Software engineering
+An empirical study of game reviews on the Steam platform,Lin et al.,2019 ,journal,EMSE,Computer Software
+Automating App Review Response Generation,Gao et al.,2019 ,conference,ASE,Software engineering
+"Dating with Scambots: Understanding the
+Ecosystem of Fraudulent Dating Applications",Hu et al.,2019 ,journal,IEEE Transactions on Dependable and Secure Computing,Computer Software
+Finding and Analyzing App Reviews Related to Specific Features: A Research Preview,Dabrowski et al.,2019 ,conference,REFSQ,Software engineering
+Gender and User Feedback: An Exploratory Study （短文）,Guzman and Paredes Rojas,2019 ,conference,RE,Software engineering
+Listening to the Crowd for the Release Planning of Mobile Apps,Scalabrino et al.,2019 ,journal,TSE,Computer Software
+Mining non-functional requirements from App store reviews,Jha and Mahmoud,2019 ,journal,EMSE,Computer Software
+"Release Early, Release Often, and Watch Your Users' Emotions: Lessons From Emotional Patterns",Martens and Maalej,2019 ,journal,IEEE Software,Computer Software
+RE-SWOT: From User Feedback to Requirements via Competitor Analysis,Dalpiaz and Parente,2019 ,conference,REFSQ,Software engineering
+Revealing the unrevealed: Mining smartphone users privacy perception on app markets,Hatamian et al.,2019 ,journal,Computers and Security,Computer Software
+"Same App, Different Countries: A Preliminary User Reviews Study on Most Downloaded iOS Apps（短文）",Srisopha et al.,2019 ,conference,ICSME,Software engineering
+"Short Text, Large Effect: Measuring the Impact of User Reviews on Android App Security & Privacy",Nguyen et al.,2019 ,conference,SP,Cybersecurity and privacy
+Simplifying the classification of app reviews using only lexical features,Shah et al.,2019 ,conference,ICSOFT,Software engineering
+Software feature refinement prioritization based on online user review mining,Zhang et al.,2019 ,journal,Information and Software Technology,Computer Software
+Studying the consistency of star ratings and reviews of popular free hybrid Android and iOS apps,Hu et al.,2019 ,journal,EMSE,Computer Software
+Towards prioritizing user-related issue reports of mobile applications,Noei et al.,2019 ,journal,EMSE,Computer Software
+Towards understanding and detecting fake reviews in app stores,Martens and Maalej,2019 ,journal,EMSE,Computer Software
+Usability Issues in Mental Health Applications,Alqahtani and Orji,2019 ,conference,UMAP,human-centred computing
+Want to Earn a Few Extra Bucks? A First Look at Money-Making Apps,Hu et al.,2019 ,conference,SANER,Software engineering
+When People and Algorithms Meet: User-reported Problems in Intelligent Everyday Applications,Eiband et al.,2019 ,conference,IUI,Human-centred computing
+A Semantic-Based Framework for Analyzing App Users' Feedback,Yadav et al.,2020 ,conference,SANER,Software engineering
+"Accessibility issues in Android apps: state of affairs, sentiments, and ways forward",Alshayban et al.,2020 ,conference,ICSE,Software engineering
+AOBTM: Adaptive Online Biterm Topic Modeling for Version Sensitive Short-texts Analysis,Hadi and Fard,2020 ,conference,ICSME,Software engineering
+App Competition Matters: How to Identify Your Competitor Apps?,Uddin et al.,2020 ,conference,SCC,Distributed computing and systems software
+App Popularity Prediction by Incorporating Time-Varying Hierarchical Interactions,Zhang et al.,2020 ,journal,IEEE Transactions on Mobile Computing,Distributed Computing
+App-Aware Response Synthesis for User Reviews,Farooq et al.,2020 ,conference,BigData,Data management and data science
+Caspar: Extracting and Synthesizing User Stories of Problems from App Reviews,Guo and Singh,2020 ,conference,ICSE,Software engineering
+Comparing mobile apps by identifying ‘Hot’ features,Malik et al.,2020 ,journal,Future Generation Computer Systems,Distributed Computing
+Feature Recommendation by Mining Updates and User Feedback from Competitor Apps,Uddin et al.,2020 ,conference,Mobiquitous,Distributed computing and systems software
+How features in iOS App Store Reviews can Predict Developer Responses,Srisopha et al.,2020 ,conference,EASE,Software engineering
+Identifying and Classifying User Requirements in Online Feedback via Crowdsourcing,van Vliet et al.,2020 ,conference,REFSQ,Software engineering
+Identifying security issues for mobile applications based on user review summarization,Tao et al.,2020 ,journal,Information and Software Technology,Computer Software
+Insights from user reviews to improve mental health apps,Alqahtani and Orji,2020 ,journal,Health informatics journal,Information Systems
+Investigating User Perceptions of Mobile App Privacy: An Analysis of User-Submitted App Reviews,Besmer et al.,2020 ,journal,International Journal of Information Security and Privacy,Information Systems
+Learning Features that Predict Developer Responses for iOS App Store Reviews,Srisopha et al.,2020 ,conference,ESEM,Software engineering
+Mining User Opinions to Support Requirement Engineering: An Empirical Study,Dabrowski et al.,2020 ,conference,CAiSE,Data management and data science
+Order in Chaos: Prioritizing Mobile App Reviews using Consensus Algorithms,Etaiwi et al.,2020 ,conference,COMPSAC,Applied computing
+Phrase-based extraction of user opinions in mobile app reviews,Vu et al.,2020 ,conference,ASE,Software engineering
+Same Same but Different: Finding Similar User Feedback Across Multiple Platforms and Languages,Oehri and Guzman,2020 ,conference,RE,Software engineering
+SmartPI: Understanding Permission Implications of Android Apps from User Reviews,Wang et al.,2020 ,journal,IEEE Transactions on Mobile Computing,Distributed Computing
+Studying Bad Updates of Top Free-to-Download Apps in the Google Play Store,Hassan et al.,2020 ,journal,TSE,Computer Software
+What People Focus on When Reviewing Your App-An Analysis Across App Categories,Huebner et al.,2020 ,journal,IEEE Software,Computer Software
+Which App is Going to Die? A Framework for App Survival Prediction With Multitask Learning,Zhang et al.,2020 ,journal,IEEE Transactions on Mobile Computing,Distributed Computing
+Ah-cid: A tool to automatically detect human-centric issues in app reviews,Mathews et al.,2021 ,conference,ICSOFT,Software engineering
+An Exploratory Analysis of Human-centric Issues in Parking Solutions Using Surveys and Mobile Parking App Reviews,Li et al.,2021 ,conference,OZCHI,Human-centred computing
+Automatically Matching Bug Reports With Related App Reviews,Haering et al.,2021 ,conference,ICSE,Software engineering
+Automating App Review Response Generation Based on Contextual Knowledge,Gao et al.,2021 ,journal,TOSEM,Computer Software
+CHAMP: Characterizing Undesired App Behaviors from User Comments Based on Market Policies,Hu et al.,2021 ,conference,ICSE,Software engineering
+Classifying User Requirements from Online Feedback in Small Dataset Environments using Deep Learning,Mekala et al.,2021 ,conference,RE,Software engineering
+Exploiting Natural Language Structures in Software Informal Documentation,Di Sorbo et al.,2021 ,journal,TSE,Computer Software
+Exploiting the Unique Expression for Improved Sentiment Analysis in Software Engineering Text,Sun et al.,2021 ,conference,ICPC,Software engineering
+Featcompare: Feature comparison for competing mobile apps leveraging user reviews,Assi et al.,2021 ,journal,EMSE,Computer Software
+Finding the Needle in a Haystack: On the Automatic Identification of Accessibility User Reviews,AlOmar et al.,2021 ,conference,CHI,Human-centred computing
+Generating Functional Requirements Based on Classification of Mobile Application User Reviews,Panthum and Senivongse,2021 ,conference,SERA,Software engineering
+How Should I Improve the UI of My App?: A Study of User Reviews of Popular Apps in the Google Play,Chen et al.,2021 ,journal,TOSEM,Computer Software
+Identifying Key Features from App User Reviews,Wu et al.,2021 ,conference,ICSE,Software engineering
+Investigating the criticality of user-reported issues through their relations with app rating,Di Sorbo et al.,2021 ,journal,Journal of Software: Evolution and Process,Computer Software
+RE-BERT: automatic extraction of software requirements from app reviews using BERT language model,de Araujo and Marcacini,2021 ,conference,SAC,Applied computing
+The Rise and Fall of COVID-19 Contact-Tracing Apps: when NFRs Collide with Pandemic,Bano et al.,2021 ,conference,RE,Software engineering
+The Role of User Reviews in App Updates: A Preliminary Investigation on App Release Notes,Wang et al.,2021 ,conference,APSEC,Software engineering
+Too Many User-Reviews! What Should App Developers Look at First?,Noei et al.,2021 ,journal,TSE,Computer Software
+Towards De-Anonymization of Google Play Search Rank Fraud,Rahman et al.,2021 ,journal,IEEE Transactions on Knowledge and Data Engineering,Data Format
+User Review-Based Change File Localization for Mobile Applications,Zhou et al.,2021 ,journal,TSE,Computer Software
+Where2Change: Change Request Localization for App Reviews,Zhang et al.,2021 ,journal,TSE,Computer Software
+AccessiText: automated detection of text accessibility issues in Android apps,Alshayban and Malek,2022 ,conference,FSE,Software engineering
+An empirical study on release notes patterns of popular apps in the Google Play Store,Yang et al.,2022 ,journal,EMSE,Computer Software
+Analyzing User Perspectives on Mobile App Privacy at Scale,Nema et al.,2022 ,conference,ICSE,Software engineering
+Better Identifying and Addressing Diverse Issues in mHealth and Emerging Apps Using User Reviews,Omar Haggag,2022 ,conference,EASE,Software engineering
+Demystifying “removed reviews” in iOS app store,Wang et al.,2022 ,conference,FSE,Software engineering
+Domain-Specific Analysis of Mobile App Reviews Using Keyword-Assisted Topic Models,Tushev et al.,2022 ,conference,ICSE,Software engineering
+Emerging App Issue Identification via Online Joint Sentiment-Topic Tracing,Gao et al.,2022 ,journal,TSE,Computer Software
+Erasing Labor with Labor: Dark Patterns and Lockstep Behaviors on Google Play,Singh et al.,2022 ,conference,Hypertext,Distributed Computing
+Hark: A Deep Learning System for Navigating Privacy Feedback at Scale,Harkous et al.,2022 ,conference,SP,Cybersecurity and privacy
+Hierarchical Bayesian multi-kernel learning for integrated classification and summarization of app reviews,Alshangiti et al.,2022 ,conference,FSE,Software engineering
+Lighting up supervised learning in user review-based code localization: dataset and benchmark,Hu et al.,2022 ,conference,FSE,Software engineering
+Listening to Users' Voice: Automatic Summarization of Helpful App Reviews,Gao et al.,2022 ,journal,TR,Computer Software
+Mining User Feedback For Software Engineering: Use Cases and Reference Architecture,Dabrowski et al.,2022 ,conference,RE,Software engineering
+Multi-source Heterogeneous User Generated Contents-driven Interactive Estimation of Distribution Algorithms for Personalized Search,Bao et al.,2022 ,journal,IEEE Transactions on Evolutionary Computation,Artificial Intelligence and Image Processing
+On the Importance of Performing App Analysis Within Peer Groups,Hassan et al.,2022 ,conference,SANER,Software engineering
+On the Violation of Honesty in Mobile Apps: Automated Detection and Categories,Obie et al.,2022 ,conference,MSR,Software engineering
+"Prioritizing user concerns in app reviews—A study of requests for new features, enhancements and bug fixes",Malgaonkar et al.,2022 ,journal,Information and Software Technology,Computer Software
+Proactive Prioritization of App Issues via Contrastive Learning,Fereidouni et al.,2022 ,conference,BigData,Data management and data science
+Supporting Developers in Addressing Human-centric Issues in Mobile Apps,Khalajzadeh et al.,2022 ,journal,TSE,Computer Software
+The Use of Pretrained Model for Matching App Reviews and Bug Reports,Wang et al.,2022 ,conference,QRS,Software engineering
+Towards Automatically Localizing Function Errors in Mobile Apps with User Reviews,Yu et al.,2022 ,journal,TSE,Computer Software
+Unsupervised Summarization of Privacy Concerns in Mobile Application Reviews,Ebrahimi and Mahmoud,2022 ,conference,ASE,Software engineering
+User Perspectives and Ethical Experiences of Apps for Depression: A Qualitative Analysis of User Reviews,Bowie-DaBreo et al.,2022 ,conference,CHI,Human-centred computing
+Where is Your App Frustrating Users?,Wang et al.,2022 ,conference,ICSE,Software engineering
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
